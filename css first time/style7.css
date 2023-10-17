@@ -1,0 +1,50 @@
+/* POSTITION */
+
+
+
+#box1{
+    border: 1px solid;
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+
+    position: relative;
+    left: 250px;
+
+
+/*
+    position: static; stays in the same place
+
+    position: relative; is relative in position to something else
+    top: 150px   note: it will cover other elements
+    left: 150px
+
+    position: absolute; will stay there
+    top: 150px
+
+    position: fixed; will stay where it is on your screen
+
+    position: sticky; when you scroll past it it will stick to 
+    the top / bottom of your screen
+*/
+}
+
+#box2{
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: fixed;
+    top: 100px;
+}
+
+#box3{
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(144, 144, 207);
+
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}

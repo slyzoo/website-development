@@ -1,0 +1,51 @@
+/* MARGINS = the psace around an element */
+body{
+    margin: 0px
+}
+
+#box1{
+    border:5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background: darkgrey;
+/*  
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+
+    margin: 50px;
+
+    margin-left: auto + margin-right: auto = centered
+
+    margin-left: 50% will stay 50% away from the left of the window
+
+    margin-left: auto will push it to the right
+    margin-right: auto will push it to the left
+
+    */
+
+}
+
+
+
+#box2{
+    border:5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background: grey;
+
+
+}
+
+
+
+
+
+
+
+
+
+

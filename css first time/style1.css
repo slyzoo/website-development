@@ -1,0 +1,18 @@
+/*WHAT IS CSS */
+
+
+body{
+    background-color: black;
+}
+h1{
+    color: cadetblue;
+}
+p{
+    background-color: crimson;
+}
+#p1{
+    color:darkcyan
+}
+.odd{
+    color: blue;
+}

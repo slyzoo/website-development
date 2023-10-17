@@ -1,0 +1,24 @@
+/*BORDERS */
+
+h1{
+
+    border-top-style: dotted;
+    border-bottom: dashed;
+    border-left-style: double;
+    border-left-width: 10px;
+    border-left-color: blueviolet;
+}
+
+
+p{
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: red;
+    padding: 5px;
+
+}
+
+
+
+

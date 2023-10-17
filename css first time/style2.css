@@ -1,0 +1,19 @@
+/* FONTS */
+
+body{
+    background: black;
+}
+
+h1{
+    color: #FFFFFF;
+    font-family: "Press Start 2P", "consolas";
+}
+
+p{
+    color: #00FF73;
+    font-family: sans-serif, "consolas";
+    font-style: italic;
+    font-weight: 100;
+    text-decoration: cyan wavy underline;
+    font-size: small;
+}

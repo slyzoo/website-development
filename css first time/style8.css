@@ -1,0 +1,56 @@
+a:link{
+    color: lawngreen;
+}
+a:visited{
+    color: aqua;
+}
+a:hover{
+    color: black;
+}
+a:active{
+    color: blue;
+}
+button:hover{
+    background-color: cadetblue;
+}
+button:active{
+    background-color: aqua;
+}
+
+/*
+is all the indevidual ones
+li:nth-child(1){
+    background-color: yellow;
+}
+li:nth-child(2){
+    background-color: yellow;
+}
+li:nth-child(3){
+    background-color: yellow;
+}
+li:nth-child(4){
+    background-color: yellow;
+}
+li:nth-child(5){
+    background-color: yellow;
+}
+
+does all the even ones
+li:nth-child(even){
+    background-color: yellow;
+}
+
+does everything that is divisable by 3
+li:nth-child(3n){
+    background-color: rgb(92, 92, 43);
+}
+
+the "+2" is the offset
+li:nth-child(3n+2){
+    background-color: rgb(92, 92, 43);
+}
+*/
+
+li:nth-child(3n+2){
+    background-color: rgb(92, 92, 43);
+}

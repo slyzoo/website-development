@@ -1,0 +1,30 @@
+/*BACKGROUND */
+
+body{
+    background-image: url("hevell.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+p{
+    background: linear-gradient(skyblue, lightgreen);
+    /* to top */
+    /* to right */
+    /* to left */
+    /* to bottom */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+background: linear-gradient(skyblue,lightgreen);
+/* to top */
+/* to right */
+/* to left */
+/* to bottom */
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
